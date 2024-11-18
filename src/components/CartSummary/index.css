@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.card-summery-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: flex-end;
+  width: 40%;
+}
+span {
+  font-size: 25px;
+  color: black;
+}
+.total {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #616e7c;
+}
+.checkout-button{
+  
+  background-color: #0b69ff;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  height: 40px;
+}
